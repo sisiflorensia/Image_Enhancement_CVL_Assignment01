@@ -4,7 +4,7 @@ Comparison of Methods to Improve Noisy Image Quality by Filtering using Median, 
 ### Step 1: Select an Image with Noise to be improved
 
 The following image with size 256 x 256 is selected from a google search result:
-![selected_image_with_noise](path/to/image.png)
+![selected_image_with_noise](selected_image.png)
 
 
 # Step 2: Create Filtering Functions
